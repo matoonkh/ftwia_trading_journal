@@ -1,0 +1,2 @@
+# ftwia_trading_journal
+ftwia_trading_journal
